@@ -28,7 +28,8 @@ The training process is carried out over multiple epochs. In each epoch, the mod
 
 After completing the training process, the task includes visualizing the training performance. A graph is plotted using Matplotlib, showing the loss values across epochs. This visualization helps in understanding whether the model is improving over time. Ideally, the loss should decrease with each epoch, indicating that the model is learning effectively.
 
-output of the task :
-
 
 In conclusion, this task demonstrates the complete workflow of training a simple neural network for image classification using PyTorch. It covers essential steps such as data preprocessing, model design, training, and evaluation through visualization. This serves as a foundation for more advanced deep learning applications in computer vision.
+
+
+output of the task :
