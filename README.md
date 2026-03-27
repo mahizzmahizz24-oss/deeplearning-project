@@ -33,3 +33,5 @@ In conclusion, this task demonstrates the complete workflow of training a simple
 
 
 output of the task :
+
+img width="1160" height="848" alt="Image" src="https://github.com/user-attachments/assets/6ffab324-b14f-4a52-8bd4-8f194954550d" />
